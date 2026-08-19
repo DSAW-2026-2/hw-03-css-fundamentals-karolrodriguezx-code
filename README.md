@@ -1,7 +1,7 @@
 # HW03 — CSS Fundamentals
 
 **Week 3 · DSAW · Universidad de La Sabana**
-
+KAROL DAYANNE RODRIGUEZ GONZALEZ: https://dsaw-2026-2.github.io/hw-03-css-fundamentals-karolrodriguezx-code/
 ## Objective
 
 Style your project's landing page with CSS and make it responsive — **no libraries**.
